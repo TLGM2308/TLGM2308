@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="images/banner.png">
 
-<!--
-**TLGM2308/TLGM2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, this is TLGM2308 ;-;
 
-Here are some ideas to get you started:
+i'm bad...\
+i play and make minecraft bedrock contents alone...\
+soon i will try to put and open-source some of my projects to this github profile soon :octocat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+okay...? ;-;
+
+## Skills and Experiences
+* 🕸️ HTML, CSS, (little) JavaScript
+* 🍵 Java
+* ©️ (quite mixed) C/C++
+* { } Minecraft Bedrock JSON UI (soon deprecated nooo...)
+* Vietnamese Translator for Minecraft, Exponential Idle
+
+## Other links
+* For now you can check my other Minecraft Bedrock contents on MCPEDL: [https://mcpedl.com/user/real_tlgm/](https://mcpedl.com/user/real_tlgm/)
+
+<br />
+<p align="center">
+	that's it. okay, have a great day...
+	<br />
+	=( ;-; )=
+</p>
