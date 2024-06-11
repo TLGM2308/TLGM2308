@@ -19,8 +19,13 @@ okay...? ;-;
 * For now you can check my other Minecraft Bedrock contents on MCPEDL: [https://mcpedl.com/user/real_tlgm/](https://mcpedl.com/user/real_tlgm/)
 
 <br />
+
+![](https://komarev.com/ghpvc/?username=TLGM2308&color=yellow&style=for-the-badge)
+
+<br />
+
 <p align="center">
-	that's it. okay, have a great day...
-	<br />
-	=( ;-; )=
+  that's it. okay, have a great day...
+  <br />
+  =( ;-; )=
 </p>
