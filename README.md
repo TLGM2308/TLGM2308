@@ -1,4 +1,4 @@
-<img src="images/ribbittl_backpacked_banner.png">
+<img src="images/birthdaytlv2_banner.png">
 
 # Hi there, this is TLGM2308 ;-;
 
