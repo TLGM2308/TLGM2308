@@ -1,4 +1,4 @@
-<img src="images/birthdaytlv2_banner.png">
+<img src="images/tl_white_winter_banner.png">
 
 # Hi there, this is TLGM2308 ;-;
 
